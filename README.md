@@ -1,4 +1,4 @@
- https://github.com/tejassui/tejassui/blob/main/gitelcome.gif
+ <img src="gitelcome.gif" width="90%"><br/><br/>
  👨‍💻 Looking for summer 2024 co-op
 
 <h3><b> Currently: </b></h3>
