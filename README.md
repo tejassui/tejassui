@@ -1,4 +1,4 @@
- <img src="gitcome.gif" width="50%"><br/><br/>
+ <img src="gitcome.gif" width="70%"><br/><br/>
  
 <b> 👨‍💻 Looking for Summer 2024 Co-op </b>
 
