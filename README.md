@@ -1,6 +1,6 @@
  <img src="gitcome.gif" width="70%"><br/><br/>
  
-<b> 👨‍💻 Looking for Summer 2024 Co-op </b>
+<h2><b> 👨‍💻 Looking for Summer 2024 Co-op </b></h2>
 
 <h3><b> Currently: </b></h3>
  💼 Return on Investment Analyst @ Providence Health Care (Winter 2024) <br>
