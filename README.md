@@ -1,7 +1,7 @@
 Looking for summer 2024 co-op
 
-Return on Investment Analyst @ Providence Health Care (Winter 2024)
-Research Assistant @ Sauder School of Business
+ 💼 Return on Investment Analyst @ Providence Health Care (Winter 2024)
+ 💼 Research Assistant @ Sauder School of Business
 
 Studying STAT (CS) + Data Science @ UBC Vancouver
 
