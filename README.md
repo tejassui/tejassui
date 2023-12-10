@@ -1,9 +1,10 @@
-Looking for summer 2024 co-op
 
- 💼 Return on Investment Analyst @ Providence Health Care (Winter 2024)
- 💼 Research Assistant @ Sauder School of Business
+ 👨‍💻 Looking for summer 2024 co-op
 
-Studying STAT (CS) + Data Science @ UBC Vancouver
+<h3><b> Currently: </b></h3>
+ 💼 Return on Investment Analyst @ Providence Health Care (Winter 2024) <br>
+ 💼 Research Assistant @ Sauder School of Business <br>
+ ✍ Studying STAT (CS) + Data Science @ UBC Vancouver
 
 <!---
 tejassui/tejassui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
