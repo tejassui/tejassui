@@ -1,6 +1,9 @@
-⚙️ DS + portfolio underway
+Looking for summer 2024 co-op
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tejassui&show_icons=true&theme=tokyonight)
+Return on Investment Analyst @ Providence Health Care (Winter 2024)
+Research Assistant @ Sauder School of Business
+
+Studying STAT (CS) + Data Science @ UBC Vancouver
 
 <!---
 tejassui/tejassui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
