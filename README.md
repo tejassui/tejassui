@@ -3,7 +3,7 @@
 <h2><b> 👨‍💻 </b></h2>
 
 <h3><b> Currently (27th Feb, 2025): </b></h3>
- 💼 Distribution Product Management Intern @ RBC Global Asset Management, Vancouver
+ 💼 Distribution Product Management Intern @ RBC Global Asset Management, Vancouver <br>
  ✍ Studying STAT (CS) + Data Science @ UBC Vancouver
 
 <h3><b> Previously: </b></h3>
