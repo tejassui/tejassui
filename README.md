@@ -2,11 +2,12 @@
  
 <h2><b> 👨‍💻 </b></h2>
 
-<h3><b> Currently (27th Feb, 2025): </b></h3>
- 💼 Distribution Product Management Intern @ RBC Global Asset Management, Vancouver <br>
- ✍ Studying STAT (CS) + Data Science @ UBC Vancouver
+<h3><b> Currently (11th June, 2026): </b></h3>
+ 💼 Looking for work that combines finance, analytics, and strategy.
+ ✍ Graduated - Statistics, UBC Vancouver
 
 <h3><b> Previously: </b></h3>
+ 💼 Distribution Product Management Intern @ RBC Global Asset Management, Vancouver <br>
  💼 Data Analytics Consultant @ Providence Health Care - Medical Imaging (Summer 2024) <br>
  💼 Research Assistant @ Sauder School of Business (Strategy & Business Economics)<br>
  💼 Data Analytics Consultant @ Providence Health Care - Biomedical Engineering (Winter 2024) <br>
