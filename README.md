@@ -3,8 +3,8 @@
 <h2><b> 👨‍💻 </b></h2>
 
 <h3><b> Currently (11th June, 2026): </b></h3>
- 💼 Looking for work that combines finance, analytics, and strategy.
- ✍ Graduated - Statistics, UBC Vancouver
+ 💼 Looking for work that combines finance, analytics, and strategy. <br>
+ ✍ Graduated - May 2026 - Statistics, UBC Vancouver
 
 <h3><b> Previously: </b></h3>
  💼 Distribution Product Management Intern @ RBC Global Asset Management, Vancouver <br>
